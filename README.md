@@ -30,3 +30,6 @@ Now that I had my two dataframes (mens andn womens) it was time to start to anal
 ### Women
 ![alt text](https://github.com/scbronder/final_project/blob/master/womens%20heatmap.png)
 
+To narrow in on some specific features I first used a Logistic Regression model and then a Random Forest model to compare relevant features. While the main feature categories were the same, there were several notable differences.
+
+![alt text]()
