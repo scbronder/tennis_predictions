@@ -17,4 +17,4 @@ At this point I made the decision to focus on the difference between male and fe
 ![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%202.22.54%20PM.png)
 
 # Data Processing
-
+I scraped the relevant statistics in batches. This was done as the scrapes themselves were taking quite a long time as I was getting roughly 2,000 women matches and 1,800 men matches. After each scape the data was written in to a text file. Each text file was then reimported in to workbook and concatenated in to corresponding men and women dataframes. There were several 
