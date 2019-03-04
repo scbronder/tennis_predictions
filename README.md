@@ -10,4 +10,4 @@ draw meaningful answers that answer the question, *"What wins a tennis match?"*
 
 # Dataset
 This project turned in to an excellent example of how the correct data is needed to drive home relevant and significant
-results. The original goal of this project was to be able to create an in match win prediction to be able to predict the winner of a match between any two opponents at any stage of the match. In order to do this I needed to create 
+results. As I mentioned before, there is not an extensive database that holds much beyone the most basic of tennis statsistics. Coming to this realization resulted in the project goal changing multiple times. The original goal of this project was to be able to create an in match win prediction to be able to predict the winner of a match between any two opponents at any stage of the match. In order to do this I needed to come up with an initial match prediction prior to the match even starting. This is where my first project pivot occured as I was not able to get a substantial head-to-head match result. 
