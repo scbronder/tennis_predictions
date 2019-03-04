@@ -52,4 +52,13 @@ And as we can see, these still appear to be very similar. But again, I want to f
 
 ### Women
 ![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%203.22.15%20PM.png)
-![alt_text]()
+![alt_text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%203.22.57%20PM.png)
+
+Finally I ran these different features through a Naive Bayes Predictor. This would take the historical mean and standard deviation for the mens and womens dataframes, seperately, and used those statistics to predict whether a match resulted in a win or loss based off of the statistics used for the formula. As you can see slightly changing specific features changes the result of the predicted match. Granted, I specifically chose metrics that were close to the mean so that a slight change would result in a changed prediction, but I still think this does a good job of explaining and highlighting the point and importance of the features.
+
+### Men's results
+![alt text]()
+
+### Women's results
+![alt text]()
+
