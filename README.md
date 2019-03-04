@@ -42,4 +42,6 @@ To narrow in on some specific features I first used a Logistic Regression model 
 ![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%203.16.00%20PM.png)
 
 #### Womens
-![alt text]()
+![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%203.16.17%20PM.png)
+
+And as we can see, these still appear to be very similar. But again, I want to focus on the differences
