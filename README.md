@@ -24,6 +24,9 @@ I scraped the relevant statistics in batches. This was done as the scrapes thems
 # Models and Results
 Now that I had my two dataframes (mens andn womens) it was time to start to analyze them and run them through some models. Using seaborn, and analyzing some heatmaps resulted in some promising feature correlations. However, these heatmaps looked very similar, which was surprising and warranted some further exploration.
 
-![alt text]()
-![alt text]()
+### Men
+![alt text](https://github.com/scbronder/final_project/blob/master/mens%20heatmap.png)
+
+### Women
+![alt text](https://github.com/scbronder/final_project/blob/master/womens%20heatmap.png)
 
