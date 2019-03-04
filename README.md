@@ -51,5 +51,5 @@ And as we can see, these still appear to be very similar. But again, I want to f
 ![alt text]()
 
 ### Women
-![alt text]()
+![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%203.22.15%20PM.png)
 ![alt_text]()
