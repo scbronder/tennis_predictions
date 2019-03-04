@@ -20,3 +20,10 @@ At this point I made the decision to focus on the difference between male and fe
 I scraped the relevant statistics in batches. This was done as the scrapes themselves were taking quite a long time as I was getting roughly 2,000 women matches and 1,800 men matches. After each scape the data was written in to a text file. Each text file was then reimported in to workbook and concatenated in to corresponding men and women dataframes. There were several preprocessing steps that were required in order to sort the data correctly. Steps included mathematical transformations to get more specific statistics, string manipulation for consistent accessing and categorization, and match result outcomes. Null values were dropped as I determined there was not a way to accurately try to fill these in. I decided to drop the null values only after realizing that there were not that many to drop and when it did not affect my total match numbers too much.
 
 ![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%202.46.59%20PM.png)
+
+# Models and Results
+Now that I had my two dataframes (mens andn womens) it was time to start to analyze them and run them through some models. Using seaborn, and analyzing some heatmaps resulted in some promising feature correlations. However, these heatmaps looked very similar, which was surprising and warranted some further exploration.
+
+![alt text]()
+![alt text]()
+
