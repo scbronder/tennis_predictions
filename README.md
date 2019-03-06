@@ -1,3 +1,5 @@
+All relevant code can be run and viewed via the project.pivot.ipynb
+
 # Goal
 To determine which factors are most relevant in a tennis match and use them to predict a winner
 
@@ -61,5 +63,3 @@ Finally I ran these different features through a Naive Bayes Predictor. This wou
 
 ### Women's results
 ![alt text](https://github.com/scbronder/final_project/blob/master/Screen%20Shot%202019-03-04%20at%203.23.42%20PM.png)
-
-All relevant code can be run and viewed via the project.pivot.ipynb
